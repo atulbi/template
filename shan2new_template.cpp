@@ -22,6 +22,7 @@ tt pair<int, int > pii;
 #define mp make_pair
 tt vector<int> vi; // < vector<int> >
 tt  vector<bool> vb;
+#define sz(a) int(a.size())
 
 /* 							<I/O>                      */
 
