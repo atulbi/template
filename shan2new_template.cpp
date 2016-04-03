@@ -1,4 +1,3 @@
-
 /*|-----------------------------------------------------------------<TEMPLATES>--------------------------------------------------------------------------------------*/
 
 #include <bits/stdc++.h>
@@ -35,6 +34,7 @@ tt  vector<bool> vb;
 #define sl(n) scanf("%lld",&n)
 #define sf(n) scanf("%lf",&n)
 #define ss(n) scanf("%s",n)
+#define nl(n) printf("\n");
 #define READ                  freopen("input.txt", "r", stdin);
 #define WRITE                 freopen("output.txt", "w", stdout);
 
