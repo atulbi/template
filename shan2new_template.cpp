@@ -17,7 +17,10 @@ tt unsigned long long int ull;
 tt vector<ll> vll;
 #define pb push_back
 tt map<int ,int > mii;
+tt map<ll ,ll > mll;
 tt pair<int, int > pii;
+tt pair<ll, ll> pll;
+
 #define mp make_pair
 tt vector<int> vi; // < vector<int> >
 tt  vector<bool> vb;
@@ -34,7 +37,7 @@ tt  vector<bool> vb;
 #define sl(n) scanf("%lld",&n)
 #define sf(n) scanf("%lf",&n)
 #define ss(n) scanf("%s",n)
-#define nl(n) printf("\n");
+#define nl() printf("\n");
 #define READ                  freopen("input.txt", "r", stdin);
 #define WRITE                 freopen("output.txt", "w", stdout);
 
@@ -57,3 +60,8 @@ tt  vector<bool> vb;
 
 
 #define iosf ios_base::sync_with_stdio(false)
+	
+
+/*================================================================================================================================
+											MAIN CODE
+==================================================================================================================================*/
